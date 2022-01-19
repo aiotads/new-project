@@ -54,7 +54,7 @@ Apache header:
 
 MIT header (vs marketplace: https://marketplace.visualstudio.com/items?itemName=ymotongpoo.licenser):
 
-    # Copyright (c) 2022 Innodisk proc.
+    # Copyright (c) 2022 Innodisk Crop.
     # 
     # This software is released under the MIT License.
     # https://opensource.org/licenses/MIT
