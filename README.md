@@ -1,9 +1,9 @@
 # New Project Template
 
 This repository contains a template that can be used to seed a repository for a
-new Google open source project.
+new Innodisk open source project.
 
-See [go/releasing](http://go/releasing) (available externally at
+Reference [go/releasing](http://go/releasing) (available externally at
 https://opensource.google/docs/releasing/) for more information about
 releasing a new Google open source project.
 
@@ -26,7 +26,7 @@ cd my-new-thing
 git init
 cp -r ../new-project/* ../new-project/.github .
 git add *
-git commit -a -m 'Boilerplate for new Google open source project'
+git commit -a -m 'Boilerplate for new Innodisk open source project'
 ```
 
 ## Source Code Headers
@@ -38,7 +38,7 @@ doesn't comply with the license.)
 
 Apache header:
 
-    Copyright 2022 Google LLC
+    Copyright 2022 Innodisk Crop.
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -51,3 +51,8 @@ Apache header:
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+MIT header:
+
+    Copyright (c) Innodisk Corporation and contributors. All rights reserved.
+    Licensed under ther MIT license. See LICENSE file in the project root for details.
