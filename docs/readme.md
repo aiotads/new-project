@@ -4,11 +4,12 @@ Describe the project's purpose.
 ## Usage
 - You can insert a screenshot or show "-h" result on the display
 
-## Requirement
-- Describe build and run environment and library dependency.
+## Prerequisite
+- Describe list of build and run environment and library dependency.
 
 ## How to build
 - Describe OS and compiler setting.
+- Step by setp instructions on how to build the program.
 
 ## How to run
 - Demo and explain which args is the purpose for.
